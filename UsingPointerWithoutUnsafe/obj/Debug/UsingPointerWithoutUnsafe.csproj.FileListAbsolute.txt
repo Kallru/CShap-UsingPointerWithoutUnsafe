@@ -1,0 +1,6 @@
+D:\WorkRoom\MyWork\ExampleForBlog\UsingPointerWithoutUnsafe\UsingPointerWithoutUnsafe\obj\Debug\UsingPointerWithoutUnsafe.csprojResolveAssemblyReference.cache
+D:\WorkRoom\MyWork\ExampleForBlog\UsingPointerWithoutUnsafe\UsingPointerWithoutUnsafe\bin\Debug\UsingPointerWithoutUnsafe.exe.config
+D:\WorkRoom\MyWork\ExampleForBlog\UsingPointerWithoutUnsafe\UsingPointerWithoutUnsafe\bin\Debug\UsingPointerWithoutUnsafe.exe
+D:\WorkRoom\MyWork\ExampleForBlog\UsingPointerWithoutUnsafe\UsingPointerWithoutUnsafe\bin\Debug\UsingPointerWithoutUnsafe.pdb
+D:\WorkRoom\MyWork\ExampleForBlog\UsingPointerWithoutUnsafe\UsingPointerWithoutUnsafe\obj\Debug\UsingPointerWithoutUnsafe.exe
+D:\WorkRoom\MyWork\ExampleForBlog\UsingPointerWithoutUnsafe\UsingPointerWithoutUnsafe\obj\Debug\UsingPointerWithoutUnsafe.pdb
